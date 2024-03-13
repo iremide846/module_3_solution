@@ -1,0 +1,24 @@
+nav{
+    background-color: aquamarine;
+}
+
+.navbar-brand{
+    text-decoration: none;
+}
+
+h2{
+   text-align: center; 
+}
+
+h3{
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+}
+.col-xs-12{
+    height: 1000px;
+    margin-top: 15px;
+}
+#Chicken {
+    background-color: blueviolet;
+}
